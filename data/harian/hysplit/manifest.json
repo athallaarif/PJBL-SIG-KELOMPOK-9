@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "crs": "EPSG:4326",
+  "palette": "sagu-bara-smoke-v1",
+  "rasters": []
+}

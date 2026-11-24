@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "directionConvention": "smoke-toward",
+  "metadata": {
+    "provider": "Open-Meteo Historical Weather API",
+    "dataset": "ERA5",
+    "modelResolutionDegrees": 0.25,
+    "queryLocation": {
+      "latitude": -0.87,
+      "longitude": 131.25
+    },
+    "returnedGridPoint": {
+      "latitude": -1.0,
+      "longitude": 131.25
+    },
+    "timezone": "Asia/Jayapura",
+    "sampleTimeWit": "14:00",
+    "accessed": "2026-11-24",
+    "license": "CC BY 4.0; free API use is non-commercial"
+  },
+  "records": [
+    { "date": "2026-09-21", "timeWit": "14:00", "directionTowardDeg": 9, "speedMps": 3.25, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-22", "timeWit": "14:00", "directionTowardDeg": 7, "speedMps": 3.58, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-23", "timeWit": "14:00", "directionTowardDeg": 344, "speedMps": 0.36, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-24", "timeWit": "14:00", "directionTowardDeg": 356, "speedMps": 2.19, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-25", "timeWit": "14:00", "directionTowardDeg": 3, "speedMps": 3.86, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-26", "timeWit": "14:00", "directionTowardDeg": 349, "speedMps": 2.08, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-27", "timeWit": "14:00", "directionTowardDeg": 18, "speedMps": 0.94, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-28", "timeWit": "14:00", "directionTowardDeg": 52, "speedMps": 1.86, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-29", "timeWit": "14:00", "directionTowardDeg": 19, "speedMps": 2.47, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-09-30", "timeWit": "14:00", "directionTowardDeg": 4, "speedMps": 3.25, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-01", "timeWit": "14:00", "directionTowardDeg": 5, "speedMps": 4.28, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-02", "timeWit": "14:00", "directionTowardDeg": 5, "speedMps": 4.03, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-03", "timeWit": "14:00", "directionTowardDeg": 3, "speedMps": 4.11, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-04", "timeWit": "14:00", "directionTowardDeg": 16, "speedMps": 3.17, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-05", "timeWit": "14:00", "directionTowardDeg": 13, "speedMps": 3.69, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-06", "timeWit": "14:00", "directionTowardDeg": 39, "speedMps": 2.19, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-07", "timeWit": "14:00", "directionTowardDeg": 106, "speedMps": 0.36, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-08", "timeWit": "14:00", "directionTowardDeg": 69, "speedMps": 1.28, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-09", "timeWit": "14:00", "directionTowardDeg": 33, "speedMps": 1.67, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-10", "timeWit": "14:00", "directionTowardDeg": 8, "speedMps": 2.78, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-11", "timeWit": "14:00", "directionTowardDeg": 195, "speedMps": 0.78, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-12", "timeWit": "14:00", "directionTowardDeg": 64, "speedMps": 1.5, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-13", "timeWit": "14:00", "directionTowardDeg": 9, "speedMps": 1.28, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-14", "timeWit": "14:00", "directionTowardDeg": 32, "speedMps": 1.81, "source": "Open-Meteo ERA5 reanalysis" },
+    { "date": "2026-10-15", "timeWit": "14:00", "directionTowardDeg": 20, "speedMps": 2.19, "source": "Open-Meteo ERA5 reanalysis" }
+  ]
+}
